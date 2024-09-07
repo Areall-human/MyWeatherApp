@@ -1,0 +1,14 @@
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\bin\Debug\net8.0\whatRoughSpaceShouldBe.exe
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\bin\Debug\net8.0\whatRoughSpaceShouldBe.deps.json
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\bin\Debug\net8.0\whatRoughSpaceShouldBe.runtimeconfig.json
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\bin\Debug\net8.0\whatRoughSpaceShouldBe.dll
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\bin\Debug\net8.0\whatRoughSpaceShouldBe.pdb
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\whatRoughSpaceShouldBe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\whatRoughSpaceShouldBe.AssemblyInfoInputs.cache
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\whatRoughSpaceShouldBe.AssemblyInfo.cs
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\whatRoughSpaceShouldBe.csproj.CoreCompileInputs.cache
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\whatRoughSpaceShouldBe.dll
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\refint\whatRoughSpaceShouldBe.dll
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\whatRoughSpaceShouldBe.pdb
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\whatRoughSpaceShouldBe.genruntimeconfig.cache
+C:\Users\ABDULSALAM\source\repos\whatRoughSpaceShouldBe\whatRoughSpaceShouldBe\obj\Debug\net8.0\ref\whatRoughSpaceShouldBe.dll
